@@ -13,7 +13,7 @@ public class OpenPage {
 		 driver.findElement(By.xpath("//textarea[@id='APjFqb']")).click();
 		 driver.findElement(By.xpath("//a[@class='gb_za gb_jd gb_Ld gb_ie']")).click();
 		 driver.findElement(By.xpath("//input[@id='identifierId']")).sendKeys("vaijayantakarale@gmail.com" );
-		 driver.findElement(By.xpath("//span[conatins(text(),'Next')]")).click();
+
 		 
 		 
 		 
